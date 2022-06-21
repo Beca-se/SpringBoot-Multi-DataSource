@@ -17,7 +17,7 @@
     </parent>
     <properties>
         <repository.url>http://172.16.0.102:8081</repository.url>
-        <mysql.connector.version>8.0.19</mysql.connector.version>
+        <mysql.connector.version>8.0.28</mysql.connector.version>
     </properties>
 
     <repositories>
